@@ -1,5 +1,6 @@
 # NodeBridge
-#Français
+Français
+
 ESP Control est un projet de domotique DIY basé sur les microcontrôleurs ESP8266 et ESP32. Il permet de contrôler des composants électroniques, de récupérer des données de capteurs et de communiquer avec d'autres systèmes via le réseau.
 
 Deux versions du projet sont disponibles :
@@ -45,7 +46,7 @@ Créer une base de domotique personnalisable permettant de découvrir l'électro
 Le projet est développé en Arduino C++.
 
 # NodeBridge
-#English
+English
 
 ESP Control is a DIY home automation project based on ESP8266 and ESP32 microcontrollers. It allows you to control electronic components, retrieve sensor data, and communicate with other systems over a network.
 
