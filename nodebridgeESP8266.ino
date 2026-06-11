@@ -12,8 +12,8 @@
 #include <ArduinoJson.h>
 
 // ── Configuration réseau ─────────────────────────────────────
-#define WIFI_SSID     "Nana Tom"
-#define WIFI_PASSWORD "!!Ils sont beaux nos choupis!!"
+#define WIFI_SSID     "SSID"
+#define WIFI_PASSWORD "mot de passe"
 
 // ── Configuration MQTT ───────────────────────────────────────
 #define MQTT_BROKER   "192.168.1.100"   // IP de votre broker (ex: Mosquitto, NodeBridge)
